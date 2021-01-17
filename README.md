@@ -1,4 +1,4 @@
-# :triangular_ruler: AI evidence theory 
+# :triangular_ruler: AI Evidence Theory 
 
 [![GitHub](https://img.shields.io/github/license/lucastanger/ai_evidence_theory)](https://github.com/lucastanger/ai_evidence_theory/blob/master/LICENSE)
 ![GitHub issues](https://img.shields.io/github/issues/lucastanger/ai_evidence_theory)
